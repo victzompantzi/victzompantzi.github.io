@@ -1,0 +1,266 @@
+{
+  "basics": {
+    "name": "Víctor Hugo Tzompantzi Cruz",
+    "label": "Backend developer with experience in Java, C# and Python",
+    "image": "https://avatars.githubusercontent.com/u/46305918?v=4",
+    "email": "vhtc8@hotmail.com",
+    "phone": "+52 5513192212",
+    "url": "",
+    "summary": "Experience as a backend developer. Design of computer project requirements. Analysis of requirements, ease of learning, commitment to the activities to be developed, punctual delivery.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "CDMX",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "victzompantzi",
+        "url": "https://github.com/victzompantzi/"
+      },
+      {
+        "network": "YouTube",
+        "username": "VíctorTzompantzi",
+        "url": "https://www.youtube.com/@V%C3%ADctorTzompantzi"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "victortzompantzi",
+        "url": "https://www.linkedin.com/in/victortzompantzi/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Certificate in Backend Specialization by Oracle Next Education - Alura Latam",
+      "position": "Intern",
+      "url": "https://www.oracle.com/mx/education/oracle-next-education/",
+      "startDate": "2024-06-01",
+      "endDate": "2025-01-15",
+      "summary": "I have created several projects in this certificate course using different technologies, such as HTML, CSS, JavaScript, Java with Spring, and SQL. The first is a web application that allows users to input messages for encoding and decoding. The second is a Java-based backend that uses a public API to generate currency conversions. The third project is a Java/Spring application that also uses a public API (Gutendex) and displays a CLI interface to perform queries, while Hibernate is used to store the data for later querying. The last one is “ForoHub Alura”, a Java/Spring project that includes a REST API with routes for questions and answers related to the different courses of the platform.",
+      "highlights": ["Backend specialization"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Abierta y a Distancia de México",
+      "url": "https://www.unadmexico.mx/",
+      "area": "Software Development",
+      "studyType": "Advanced Technical Degree",
+      "startDate": "2023-06-01",
+      "endDate": "",
+      "score": "9.3",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Programa Oracle Next Education F2 T7 Back-end",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "issuer": "Alura Latam",
+      "url": "https://app.aluracursos.com/program/certificate/3afd4555-c1ed-4982-8413-80cc3d133b4a?lang"
+    },
+    {
+      "name": "Certificado de Ciberseguridad de Google",
+      "startDate": "2025-01-01",
+      "endDate": "",
+      "issuer": "Coursera",
+      "url": "https://www.credly.com/badges/dfd79e4f-2cc1-4eea-9804-8a6ab67984a0/linked_in_profile"
+    },
+    {
+      "name": "Google Cloud Computing Foundations Certificate",
+      "startDate": "2024-11-01",
+      "endDate": "",
+      "issuer": "Google",
+      "url": "https://www.credly.com/badges/d118a934-44af-49f0-ba5a-c7bbdd0f6dd0/linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+      "startDate": "2024-10-01",
+      "endDate": "",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/api/credentials/share/es-es/victzompantzi/C9EDBD5509268FD3?sharingId"
+    }
+  ],
+  "skills": [
+    {
+      "name": "C#",
+      "level": "Intermediate",
+      "keywords": ["Development", "Backend", "Microsoft"]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": ["Development", "Backend", "Cross-Platform"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Begginer",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Begginer",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "Angular",
+      "level": "Begginer",
+      "keywords": ["Frontend", "Framework", "JavaScript"]
+    },
+    {
+      "name": "MS SQL Server",
+      "level": "Intermediate",
+      "keywords": ["Databases", "Microsoft", "SQL"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Storage"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Storage"]
+    },
+    {
+      "name": "Oracle",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Storage"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "Azure",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud Computing",
+        "Managed Services",
+        "Scalability",
+        "Solution Architecture"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Intermediate",
+      "keywords": [
+        "Infrastructure as a Service",
+        "Cloud Services",
+        "Scalability",
+        "Resource Management"
+      ]
+    },
+    {
+      "name": "GCP",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud Computing",
+        "Managed Services",
+        "Data Analytics",
+        "Solution Architecture"
+      ]
+    }
+  ],
+  "skillsnet": [
+    {
+      "category": "Web frameworks",
+      "items": [
+        {
+          "name": "MVC",
+          "level": "Intermediate",
+          "keywords": ["Web Framework", "Spring", "MVC"]
+        },
+        {
+          "name": "Web API",
+          "level": "Intermediate",
+          "keywords": ["Web Framework", "Spring", "API"]
+        },
+        {
+          "name": "Web Forms",
+          "level": "Intermediate",
+          "keywords": ["Web Framework", "Thymeleaf", "Forms"]
+        }
+      ]
+    },
+    {
+      "category": "Communication frameworks",
+      "items": [
+        {
+          "name": "Web API RESTful",
+          "level": "Intermediate",
+          "keywords": ["Communication Framework", "Spring", "API"]
+        },
+        {
+          "name": "Web Services",
+          "level": "Intermediate",
+          "keywords": ["Communication Framework", "Spring Boot", "Services"]
+        }
+      ]
+    },
+    {
+      "category": "ORM",
+      "items": [
+        {
+          "name": "Hibernate",
+          "level": "Intermediate",
+          "keywords": ["ORM", "Java", "Database"]
+        }
+      ]
+    },
+    {
+      "category": "Java unit testing frameworks",
+      "items": [
+        {
+          "name": "JUnit",
+          "level": "Intermediate",
+          "keywords": ["Unit Testing", "Java", "Testing"]
+        },
+        {
+          "name": "Mockito",
+          "level": "Intermediate",
+          "keywords": ["Unit Testing", "Java", "Mock"]
+        }
+      ]
+    },
+    {
+      "category": "Java build tools",
+      "items": []
+    },
+    {
+      "category": "OCI",
+      "items": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "projects": []
+}
