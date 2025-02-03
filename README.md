@@ -1,34 +1,49 @@
 # 👨‍💻 Portfolio
 
-Welcome to my portfolio! This repository showcases my skills, projects, and experiences as a software developer. Here, you can explore the technologies I work with, review my notable projects, and learn about my professional background.
+Welcome to my portfolio!
+This repository showcases my skills, projects, and experiences as a software developer.
+Here, you can explore the technologies I work with, review my notable projects, and learn about my
+professional background.
 
 ## 📚 Contents
 
-- [Technologies](#technologies): Overview of programming languages, frameworks, and tools I use.
-- [Projects](#projects): A collection of my notable projects with descriptions and links.
-- [Experience](#experience): Details of my professional roles and responsibilities.
-- [Skills](#skills): Summary of my technical skills and expertise.
+- [Technologies](#technologies):
+  Overview of programming languages, frameworks, and tools I use.
+- [Projects](#projects):
+  A collection of my notable projects with descriptions and links.
+- [Experience](#experience):
+  Details of my professional roles and responsibilities.
+- [Skills](#skills):
+  Summary of my technical skills and expertise.
 
 ## 🛠️ Technologies
 
-- **Java**: Intermediate skills in development, backend services, and cross-platform applications.
-- **C#**: Beginner expertise in development and backend solutions.
-- **JavaScript**: Beginner in web development, including frontend, backend, and full-stack solutions.
-- **Databases**: Intermediate skills in MySQL and PostgreSQL.
+- **Java**:
+  Intermediate skills in development, backend services, and cross-platform applications.
+- **C#**:
+  Beginner expertise in development and backend solutions.
+- **JavaScript**:
+  Beginner in web development, including frontend, backend, and full-stack solutions.
+- **Databases**:
+  Intermediate skills in MySQL and PostgreSQL.
 
 ## 🚀 Projects
 
-Explore my projects to see practical applications of my skills. Each project includes a description, technologies used, and links to source code or live demos.
+Explore my projects to see practical applications of my skills.
+Each project includes a description, technologies used, and links to source code or live demos.
 
 ## 🌟 Experience
 
-I'm a software developer eager for new opportunities and knowledge.
+I'm a software developer avid for new opportunities and knowledge.
 
-- **Role 1**: Software developer.
+- **Role 1**:
+  Software developer.
 
 ## 💡 Skills
 
-My skill set includes a range of programming languages, frameworks, and tools essential for modern software development. I am continuously learning and adapting to new technologies to stay current in the field.
+My skill set includes a range of programming languages, frameworks, and tools essential for modern
+software development.
+I am continuously learning and adapting to new technologies to stay current in the field.
 
 ---
 
@@ -38,7 +53,8 @@ Thank you for visiting my portfolio!
 
 - [**Astro**](https://astro.build/) - The next-generation web framework.
 - [**TypeScript**](https://www.typescriptlang.org/) - JavaScript with type syntax.
-- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Dropdown menu with keyboard shortcuts created in pure JavaScript.
+- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Dropdown menu with keyboard shortcuts
+  created in pure JavaScript.
 
 ## 🚀 Get Started
 
@@ -76,9 +92,12 @@ $ pnpm dev
 
 ## 📜 Credits
 
-This portfolio template is inspired by and based on the work of [Midudev](https://github.com/midudev/minimalist-portfolio-json). Special thanks to Midudev for creating the minimalist portfolio template that served as the foundation for this project.
+This portfolio template is inspired by and based on the work of
+[Midudev](https://github.com/midudev/minimalist-portfolio-json).
+Special thanks to Midudev for creating the minimalist portfolio template that served as the
+foundation for this project.
 
-- **Repository:** [Minimalist Portfolio JSON](https://github.com/midudev/minimalist-portfolio-json)
+- **Repository:** [Minimalist Portfolio JSON](https://github.com/midudev/minimalist-portfolio-json)
 - **Author:** [Midudev](https://github.com/midudev)
 - **Description:** A sleek, modern portfolio template using Astro and TypeScript.
 
