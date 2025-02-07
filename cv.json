@@ -87,11 +87,6 @@
   ],
   "skills": [
     {
-      "name": "C#",
-      "level": "Intermediate",
-      "keywords": ["Development", "Backend", "Microsoft"]
-    },
-    {
       "name": "Java",
       "level": "Intermediate",
       "keywords": ["Development", "Backend", "Cross-Platform"]
@@ -112,19 +107,9 @@
       ]
     },
     {
-      "name": "Node",
-      "level": "Begginer",
-      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
-    },
-    {
       "name": "Angular",
       "level": "Begginer",
       "keywords": ["Frontend", "Framework", "JavaScript"]
-    },
-    {
-      "name": "MS SQL Server",
-      "level": "Intermediate",
-      "keywords": ["Databases", "Microsoft", "SQL"]
     },
     {
       "name": "MySQL",
@@ -137,11 +122,6 @@
       "keywords": ["Databases", "SQL", "Storage"]
     },
     {
-      "name": "Oracle",
-      "level": "Intermediate",
-      "keywords": ["Databases", "SQL", "Storage"]
-    },
-    {
       "name": "Git",
       "level": "Intermediate",
       "keywords": ["Version Control", "Collaboration", "Source Code"]
@@ -150,26 +130,6 @@
       "name": "GitHub",
       "level": "Intermediate",
       "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
-    },
-    {
-      "name": "Azure",
-      "level": "Intermediate",
-      "keywords": [
-        "Cloud Computing",
-        "Managed Services",
-        "Scalability",
-        "Solution Architecture"
-      ]
-    },
-    {
-      "name": "AWS",
-      "level": "Intermediate",
-      "keywords": [
-        "Infrastructure as a Service",
-        "Cloud Services",
-        "Scalability",
-        "Resource Management"
-      ]
     },
     {
       "name": "GCP",
@@ -197,9 +157,9 @@
           "keywords": ["Web Framework", "Spring", "API"]
         },
         {
-          "name": "Web Forms",
+          "name": "Spring Boot",
           "level": "Intermediate",
-          "keywords": ["Web Framework", "Thymeleaf", "Forms"]
+          "keywords": [Web Framework, "Spring", "API"]
         }
       ]
     },
