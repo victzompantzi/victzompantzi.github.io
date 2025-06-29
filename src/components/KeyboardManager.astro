@@ -43,19 +43,21 @@ const SOCIAL_ICONS: SocialIcon = {
 `
 }
 
-const profilesInfo = profiles.map(({ network, url }) => {
-  const icon = SOCIAL_ICONS[network]
-  const firstLetter = network[0].toUpperCase()
+const profilesInfo = profiles
+  .filter(({ network, url }) => network && url) // Filter out empty entries
+  .map(({ network, url }) => {
+    const icon = SOCIAL_ICONS[network]
+    const firstLetter = network[0].toUpperCase()
 
-  return {
-    id: network,
-    section: "Social",
-    title: `Visitar ${network}`,
-    url,
-    icon,
-    hotkey: `ctrl+${firstLetter}`
-  }
-})
+    return {
+      id: network,
+      section: "Social",
+      title: `Visitar ${network}`,
+      url,
+      icon,
+      hotkey: `ctrl+${firstLetter}`
+    }
+  })
 ---
 
 <footer id="normal-footer" class="no-print">

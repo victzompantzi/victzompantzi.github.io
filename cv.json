@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Víctor Hugo Tzompantzi Cruz",
-    "label": "Backend developer with experience in Java, C# and Python",
+    "label": "Java Developer",
     "image": "https://avatars.githubusercontent.com/u/46305918?v=4",
-    "email": "vhtc8@hotmail.com",
-    "phone": "+52 5513192212",
+    "email": "victz.contacto@gmail.com",
+    "phone": "",
     "url": "",
-    "summary": "Experience as a backend developer. Design of computer project requirements. Analysis of requirements, ease of learning, commitment to the activities to be developed, punctual delivery.",
+    "summary": "Experience as a backend developer. Design of computer project requirements. Analysis of requirements, ease of learning and commitment to the activities to be developed.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -19,11 +19,6 @@
         "network": "GitHub",
         "username": "victzompantzi",
         "url": "https://github.com/victzompantzi/"
-      },
-      {
-        "network": "YouTube",
-        "username": "VíctorTzompantzi",
-        "url": "https://www.youtube.com/@V%C3%ADctorTzompantzi"
       },
       {
         "network": "LinkedIn",
